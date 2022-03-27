@@ -1,0 +1,14 @@
+body {
+    background-color: cornsilk;
+}
+hr {
+    border-style: none;
+    background-color: azure;
+    width: 7%;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+}
+h1 {
+    color: #66BFBF;
+}
